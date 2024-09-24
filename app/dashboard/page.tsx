@@ -5,7 +5,7 @@ import LineChart from './LineChart';
 const Dashboard = () => {
   return (
     <div>
-      <h1>Hello  from  Dashboard </h1>
+      <h1>Hello  from  Dashboard Page</h1>
       <LineChart />
     </div>
   );
